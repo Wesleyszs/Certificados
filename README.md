@@ -24,3 +24,5 @@ Manutenção e Montagem de Computadores
 NR18
 ![image](https://github.com/user-attachments/assets/4f7ab973-1fbb-4d77-a683-00909f36729e)
 
+NR12
+![IMAGE](https://github.com/user-attachments/assets/f9d2b70d-c4fa-4c7d-adf7-06456b64f84c)
