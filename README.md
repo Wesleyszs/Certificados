@@ -21,3 +21,6 @@ Python Básico
 Manutenção e Montagem de Computadores
 ![image](https://github.com/user-attachments/assets/b24f888c-93a7-4c56-91ef-c581b2de65eb)
 
+NR18
+![image](https://github.com/user-attachments/assets/4f7ab973-1fbb-4d77-a683-00909f36729e/>)
+
